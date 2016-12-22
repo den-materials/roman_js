@@ -22,11 +22,14 @@ Click on "Spec List" in the browser (`SpecRunner.html`) to see a listing of the 
 You may find `SpecRunner.html` helpful as you refactor your code to support the next range of Roman Numerals.
 
 **Pro-Tip:** Comment out the failing specs, leaving only a single failing spec.  Just focus on one requirement at a time.
+
 **Pro-Tip:** Beware of infinite recursion and infinite loops.  If your `SpecRunner.html` takes a very long time to load or shows the Chrome Kill/Wait dialog, you probably have something infinite in your code.
 
 ### Pairing!
 
 Let's do a quick fist-to-five.  Pair with someone who is within one number of you.  Ideally, pair with someone you've never worked with before!
+
+<!--Actually 9:09 yay (started at 9:01)! -->
 
 <!--9:15 5 minutes -->
 
