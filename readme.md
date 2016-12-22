@@ -11,10 +11,6 @@ Create a function that accepts an integer as an argument. It should then convert
 13 = XIII
 ```
 
-### Pairing!
-
-You can do this challenge in either JS or Ruby. Pair with someone that wants to code in the same language as you. Ideally someone you've never worked with before!
-
 ### Specs? (aka What's this SpecRunner.html?)
 
 If you open `SpecRunner.html` in your browser, you can see that there are 19 specifications, 8 pass and 11 fail.  These specifications (or tests) indicate how your code should perform.  They provide examples of what output is expected for various inputs. Eight specs already pass, because the starter code supports them.
@@ -27,6 +23,10 @@ You may find `SpecRunner.html` helpful as you refactor your code to support the 
 
 **Pro-Tip:** Comment out the failing specs, leaving only a single failing spec.  Just focus on one requirement at a time.
 **Pro-Tip:** Beware of infinite recursion and infinite loops.  If your `SpecRunner.html` takes a very long time to load or shows the Chrome Kill/Wait dialog, you probably have something infinite in your code.
+
+### Pairing!
+
+Let's do a quick fist-to-five.  Pair with someone who is within one number of you.  Ideally, pair with someone you've never worked with before!
 
 <!--9:15 5 minutes -->
 
@@ -44,4 +44,3 @@ You are looking for an algorithm that will calculate a Roman numeral.  Simply cr
 
 - How clear is your code?  Is it obvious where you support the subtraction cases (IV, IX, etc)?  Does your code reflect your vision of how you, personally, calculate Roman Numerals?
 - Create a web page that converts roman numerals
-- Refactor to another language
