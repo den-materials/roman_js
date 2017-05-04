@@ -29,8 +29,6 @@ You may find `SpecRunner.html` helpful as you refactor your code to support the 
 
 Let's do a quick fist-to-five.  Pair with someone who is within one number of you.  Ideally, pair with someone you've never worked with before!
 
-<!--Actually 9:09 yay (started at 9:01)! -->
-
 <!--9:15 5 minutes -->
 
 ### Pseudo Code!
