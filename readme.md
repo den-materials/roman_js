@@ -1,3 +1,4 @@
+<!--WDI6 9:05  -->
 <!--9:05 10 minutes -->
 
 # Romanize!
@@ -39,6 +40,7 @@ We recommend you pseudocode for a few minutes. Start writing down/typing how to 
 
 You are looking for an algorithm that will calculate a Roman numeral.  Simply creating a massive conversion chart that includes all numbers is, well, simply painful.
 
+<!--WDI6 9:20 -->
 <!--9:20 20 minutes Code out solution -->
 
 ### Bonus
